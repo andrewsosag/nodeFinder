@@ -59,5 +59,5 @@ dictionary.erase(dictionary.begin()+j);
 adjacentWord->link = searchWord;
 ```
 5. The program continues to loop through the dictionary until:
-    5a. Bacon is the adjacent word, and the program iterates through the linked list printing the path to "bacon"
-    5b. Bacon is never found, and the program exits
+    - Bacon is the adjacent word, and the program iterates through the linked list printing the path to "bacon"
+    - Bacon is never found, and the program exits
